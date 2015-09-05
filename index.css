@@ -1,0 +1,151 @@
+body {
+    background-image:           url(images/texture_aside.gif);
+    font-family:                Georgia, Times, 'Times New Roman', serif;
+}
+
+div#aside_table {
+    display:                    table;
+    background-image:           url(images/texture_aside.gif);
+    position:                   fixed;
+    top:                        0px;
+    left:                       0px;
+    width:                      200px;
+}
+
+div#cross_row {
+    display:                    table-row;
+}
+
+div#cross_cell {
+    display:                    table-cell;
+}
+
+div img#cross {
+    padding:                    25px 0px 0px 28px;
+}
+
+div#menu_row {
+    display:                    table-row;
+}
+
+nav#menu_cell {
+    display:                    table-cell;
+}
+
+nav ul {
+    list-style-type:            none;
+    margin-top:                 20px;
+    padding:                    5px;
+}
+
+nav ul li {
+    margin-top:                 5px;
+	padding:                    7px 0px 7px 0px;
+    text-align:                 center;
+}
+
+header {
+    height:                     auto;
+    width:                      auto;
+}
+
+header h1#header_txt {
+    font-size:                  30px;
+    font-style:                 normal;
+    color:                      rgb(226,197,116);
+    line-height:                55px;
+    text-align:                 center;
+}
+
+nav#menu_cell a:link {
+    color:                      rgb(226,197,116);
+    text-decoration:            none;
+}
+nav#menu_cell a:visited {
+    color:                      rgb(226,197,116);
+    text-decoration:            none;
+}
+
+nav#menu_cell a:hover {
+    border:                     rgb(226,197,116) solid 1px;
+    padding:                    5px 15px 5px 15px;
+}
+
+div#main_table {
+    display:                    table;
+    margin-left:                200px;
+    box-shadow:                 inset 0px 0px 15px 7px rgba(0,0,0,0.45);
+    background-image:           url(images/bg_pattern.png);
+    width:                      auto;
+    height:                     auto;
+    border-radius:              50px;
+}
+
+section h2#istoriko_title{
+    text-align:                 center;
+    color:                      rgb(112,48,48);
+}
+
+div#istoriko_row {
+    display:                    table-row;
+}
+
+section#istoriko_cell {
+    display:                    table-cell;
+    padding:                    0px 20px 30px 35px;
+}
+
+section#istoriko_cell img {
+    padding:                    20px 15px 0px 0px;
+    float:                      left;
+}
+
+section p.paragraph {
+    font-size:                  18px;
+    line-height:                27px;
+}
+
+section h2#afieroma_title{
+    text-align:                 center;
+    color:                      rgb(112,48,48);
+}
+
+div#afieroma_row {
+    display:                    table-row;
+}
+
+section#afieroma_cell {
+    display:                    table-cell;
+    padding:                    0px 20px 30px 35px;
+}
+
+section#afieroma_cell img {
+    padding:                    20px 15px 0px 0px;
+    float:                      left;
+}
+
+section h2#vivlia_title{
+    text-align:                 center;
+    color:                      rgb(112,48,48);
+}
+
+div#vivlia_row {
+    display:                    table-row;
+}
+
+section#vivlia_cell {
+    display:                    table-cell;
+    text-align:                 center;
+    padding:                    0px;
+}
+
+section p.title {
+    text-align:                 left;
+    padding-left:               35px;
+    font-size:                  20px;
+}
+
+.vivlia_img {
+    margin-right:               50px;
+    margin-bottom:              50px;
+}
