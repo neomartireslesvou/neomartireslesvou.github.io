@@ -1,6 +1,6 @@
 # neomartireslesvou.github.io
 
-The neomartireslesvou.gr website.
+The neomartireslesvou.gr website. The domain is lost so we reverted to http://neomartireslesvou.github.io
 
 ## Notes for future developers
 To add books go to https://github.com/neomartireslesvou/neomartireslesvou.github.io/releases/v1.0 and modify the release of the v1.0 Tag.
