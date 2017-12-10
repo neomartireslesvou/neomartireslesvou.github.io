@@ -8,7 +8,7 @@ Add the binary there and add an optional description on the release with the ima
 You may add images in the release's description using the following Markdown
 
 ```
-[![Alt text](http://www.neomartireslesvou.gr/images/Something.jpg)](https://github.com/neomartireslesvou/neomartireslesvou.github.io/releases/download/v1.0/Something.pdf)
+[![Alt text](http://neomartireslesvou.github.io/images/Something.jpg)](https://github.com/neomartireslesvou/neomartireslesvou.github.io/releases/download/v1.0/Something.pdf)
 ```
 
 Then change the download link to
